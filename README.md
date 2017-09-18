@@ -1,6 +1,6 @@
-# Short presentation about imbalanced datasets
+# When pd.read_csv is not enough
 
-## PyData Wroclaw - 21/08/2017
+## PyData Wroclaw - 13/09/2017
 
 ### Python version
 
